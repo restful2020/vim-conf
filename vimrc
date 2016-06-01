@@ -267,3 +267,4 @@ let g:closetag_filenames = "*.html,*.xhtml,*.phtml,*.xml"
 
 let g:NERDTreeWinPos = "right"
 let g:nerdtree_tabs_open_on_console_startup=1
+"
